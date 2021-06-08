@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamJaneczech
 - 👀 I’m interested in 3D printing & Arduino
-- 🌱 I’m currently learning everything I can to get better in everything
+- 🌱 I’m currently learning everything I can to have more knowledge & experience
 - 💞️ I’m looking to collaborate on Arduino projects
 - 📫 How to reach me
   Twitter @adamjaneczech
